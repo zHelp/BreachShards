@@ -1,7 +1,0 @@
-name: BreachShards
-version: 1.0.0
-author: Bart
-main: me.bartvv.breachshards.BreachShards
-commands:
-  sellshard:
-    aliases: [sellshards]
